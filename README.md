@@ -17,7 +17,7 @@ A privacy-preserving voting system using Zama's Fully Homomorphic Encryption (FH
 
 ```
 zama/
-├── example/                    # Example contracts (referenced from hello-fhevm-tutorial)
+├── example/                    # Example contracts
 │   ├── contracts/
 │   │   └── PrivateVoting.sol  # FHEVM privacy voting contract
 │   ├── scripts/
@@ -41,7 +41,7 @@ zama/
 
 ## 🚀 Quick Start
 
-### Method 2: Deploy Real Contract
+### Method 1: Deploy Real Contract
 
 #### 1. Install Dependencies
 
