@@ -17,11 +17,7 @@ A privacy-preserving voting system using Zama's Fully Homomorphic Encryption (FH
 
 ```
 zama/
-<<<<<<< HEAD
-├── example/                    # Example contracts 
-=======
 ├── example/                    # Example contracts
->>>>>>> 89e937af9539de4e38d251df4a869f6e5a09c9f8
 │   ├── contracts/
 │   │   └── PrivateVoting.sol  # FHEVM privacy voting contract
 │   ├── scripts/
@@ -160,8 +156,4 @@ This is a demonstration project. Use at your own risk, ensure proper security me
 
 ## 🙏 Acknowledgments
 
-<<<<<<< HEAD
 - Using [Zama FHEVM technology](https://github.com/zama-ai/fhevm)
-=======
-- Using [Zama FHEVM technology](https://github.com/zama-ai/fhevm)
->>>>>>> 89e937af9539de4e38d251df4a869f6e5a09c9f8
