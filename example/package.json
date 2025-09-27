@@ -1,0 +1,25 @@
+{
+  "name": "fhevm-privacy-voting-example",
+  "version": "1.0.0",
+  "description": "FHEVM Privacy Voting Example Contracts",
+  "main": "index.js",
+  "scripts": {
+    "build": "hardhat compile",
+    "deploy:voting": "hardhat run scripts/deploy-voting.js --network sepolia",
+    "addresses": "node scripts/update-addresses.js",
+    "verify:all": "hardhat verify --network sepolia",
+    "clean": "hardhat clean"
+  },
+  "keywords": ["fhevm", "zama", "voting", "privacy", "blockchain", "fhe"],
+  "author": "Zama Developer Program Participant",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.0",
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "@fhevm/solidity": "^0.8.0",
+    "ethers": "^6.8.0"
+  }
+}
