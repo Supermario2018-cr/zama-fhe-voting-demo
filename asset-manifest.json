@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/zama-fhe-voting-demo/static/css/main.48b0123c.css",
-    "main.js": "/zama-fhe-voting-demo/static/js/main.db9f6a69.js",
+    "main.js": "/zama-fhe-voting-demo/static/js/main.14d9ee16.js",
     "index.html": "/zama-fhe-voting-demo/index.html",
     "main.48b0123c.css.map": "/zama-fhe-voting-demo/static/css/main.48b0123c.css.map",
-    "main.db9f6a69.js.map": "/zama-fhe-voting-demo/static/js/main.db9f6a69.js.map"
+    "main.14d9ee16.js.map": "/zama-fhe-voting-demo/static/js/main.14d9ee16.js.map"
   },
   "entrypoints": [
     "static/css/main.48b0123c.css",
-    "static/js/main.db9f6a69.js"
+    "static/js/main.14d9ee16.js"
   ]
 }
